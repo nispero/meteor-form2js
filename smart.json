@@ -3,6 +3,6 @@
     "description": "Javascript library for collecting form data",
     "homepage": "https://github.com/nispero/meteor-form2js",
     "author": "Nispero",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "git": "https://github.com/nispero/meteor-form2js"
 }
