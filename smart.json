@@ -1,8 +1,8 @@
 {
-    "name": "form2js",
+    "name": "nispero-form2js",
     "description": "Javascript library for collecting form data",
-    "homepage": "https://github.com/rithis/meteor-form2js",
-    "author": "Vyacheslav Slinko <vyacheslav.slinko@gmail.com>",
-    "version": "2.0.0r1",
-    "git": "https://github.com/rithis/meteor-form2js"
+    "homepage": "https://github.com/nispero/meteor-form2js",
+    "author": "Nispero",
+    "version": "0.1",
+    "git": "https://github.com/nispero/meteor-form2js"
 }
