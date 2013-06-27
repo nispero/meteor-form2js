@@ -24,7 +24,7 @@
  * Time: 23:40
  */
 
-var js2form = (function()
+this.js2form = (function()
 {
 	"use strict";
 
